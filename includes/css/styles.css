@@ -129,6 +129,54 @@ footer{
   width: 570px;
   height: 300px;
 }
+#theme{
+  margin-top: 130px;
+}
+#theme1{
+  background: url('../../images/z1.png');
+  height: 350px;
+
+}
+#theme2{
+  background: url('../../images/z2.png');
+  height: 350px;
+
+}
+#theme3{
+  background: url('../../images/z4.png');
+  height: 350px;
+
+}
+#theme4{
+  background: url('../../images/z5.png');
+  height: 350px;
+
+}
+#theme5{
+  background: url('../../images/z6.png');
+  height: 350px;
+
+}
+#theme6{
+  background: url('../../images/z8.png');
+  height: 350px;
+
+}
+#theme7{
+  background: url('../../images/z9.png');
+  height: 350px;
+
+}
+#theme8{
+  background: url('../../images/z10.png');
+  height: 350px;
+
+}
+#theme9{
+  background: url('../../images/z11.png');
+  height: 350px;
+
+}
 
 
 /* --------------------------------------
