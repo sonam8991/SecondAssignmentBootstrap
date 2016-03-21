@@ -37,6 +37,9 @@ body{
 .navbar a{
   font-size: 25px;
 }
+.dropdown li a{
+  font-size: 15px;
+}
 #temp1{
   background: url('../../images/z4.png') center;
   height: 400px;
